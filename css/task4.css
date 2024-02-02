@@ -1,0 +1,21 @@
+* {
+    text-decoration: none;
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: green;
+}
+.season1 {
+    color: orange;
+}
+.season2 {
+    color: violet;
+}
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
